@@ -2,6 +2,6 @@
 
 da projects lmao
 
-no steal if late pls :(
+upload html only pls (into the ```reports``` folder)
 
-note: github blocks plotly so pls download to view properly
+view them at <https://m22404.github.io/DAProject>
