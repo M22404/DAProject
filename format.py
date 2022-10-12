@@ -1,5 +1,3 @@
-# Folium's iframes really annoy me so like this file just splits them out into separate html files
-
 import re
 import glob
 from pathlib import Path
