@@ -1,0 +1,634 @@
+
+>	Web:S1827@")Remove this deprecated "align" attribute.(§›¦§
+QWeb:UnsupportedTagsInHtml5Check@"&Remove this deprecated "font" element.(§›¦§
+GWeb:BoldAndItalicTagsCheck@"!Replace this <b> tag by <strong>.(§›¦§
+MWeb:TableWithoutCaptionCheckM" Add a description to this table.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckM";Add either an 'id' or a 'scope' attribute to this <th> tag.(«Ü…êøÿÿÿÿ
+GWeb:TableWithoutCaptionCheckO" Add a description to this table.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+f Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘°Õ?
+MWeb:TableWithoutCaptionCheckS" Add a description to this table.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(œ‹é”üÿÿÿÿ
+HWeb:TableWithoutCaptionCheckU" Add a description to this table.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+g Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.(……æÖ
+HWeb:TableWithoutCaptionCheckW" Add a description to this table.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+g Web:TableHeaderHasIdOrScopeCheckW";Add either an 'id' or a 'scope' attribute to this <th> tag.(£ï¬•
+MWeb:TableWithoutCaptionCheckY" Add a description to this table.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckY";Add either an 'id' or a 'scope' attribute to this <th> tag.(‘îûÀÿÿÿÿÿ
+HWeb:TableWithoutCaptionCheck[" Add a description to this table.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+g Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÍÈ±¶
+HWeb:TableWithoutCaptionCheck_" Add a description to this table.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+g Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹®®Œ
+HWeb:TableWithoutCaptionChecku" Add a description to this table.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+g Web:TableHeaderHasIdOrScopeChecku";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ó˜¦—
+IWeb:TableWithoutCaptionCheck" Add a description to this table.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+h Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯ïúÑ
+IWeb:TableWithoutCaptionCheckª" Add a description to this table.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+h Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(Šİ­˜
+NWeb:TableWithoutCaptionCheckÎ" Add a description to this table.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨¡ı±ıÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÓ" Add a description to this table.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÓ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¡á‚£ıÿÿÿÿ
+HWeb:TableWithoutCaptionCheckÁ" Add a description to this table.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+g Web:TableHeaderHasIdOrScopeCheckÁ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸¸½&
+NWeb:TableWithoutCaptionCheckÃ" Add a description to this table.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÃ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ı²µÀÿÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÄ" Add a description to this table.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÄ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ìé²Êûÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÇ" Add a description to this table.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+h Web:TableHeaderHasIdOrScopeCheckÇ";Add either an 'id' or a 'scope' attribute to this <th> tag.(³ı²“
+HWeb:TableWithoutCaptionCheckÈ" Add a description to this table.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+g Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óÙ²W
+NWeb:TableWithoutCaptionCheckĞ" Add a description to this table.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(óëëşÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÑ" Add a description to this table.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+h Web:TableHeaderHasIdOrScopeCheckÑ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ëÎæœ
+MWeb:ImgWithoutAltCheckê"%Add an "alt" attribute to this image.(¥ÆÚÏıÿÿÿÿ
+HWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(óèÑ
+HWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(óèÑ
+HWeb:ImgWithoutAltCheck¸"%Add an "alt" attribute to this image.(£ßôï
+MWeb:ImgWithoutAltCheckº"%Add an "alt" attribute to this image.(Ñá«çıÿÿÿÿ
+MWeb:ImgWithoutAltCheck¼"%Add an "alt" attribute to this image.(šãì†ıÿÿÿÿ
+HWeb:ImgWithoutAltCheck¾"%Add an "alt" attribute to this image.(¶¯Ù¡
+HWeb:ImgWithoutAltCheckÀ"%Add an "alt" attribute to this image.(ÑÂ§
+MWeb:ImgWithoutAltCheckÂ"%Add an "alt" attribute to this image.(¹øØƒüÿÿÿÿ
+MWeb:ImgWithoutAltCheckÈ"%Add an "alt" attribute to this image.(¸×Éìúÿÿÿÿ
+MWeb:ImgWithoutAltCheck£"%Add an "alt" attribute to this image.(……èÕÿÿÿÿÿ
+MWeb:ImgWithoutAltCheck¤"%Add an "alt" attribute to this image.(¤ÔÒÈøÿÿÿÿ
+HWeb:ImgWithoutAltCheck¥"%Add an "alt" attribute to this image.(ææº÷
+HWeb:ImgWithoutAltCheck¦"%Add an "alt" attribute to this image.(Äªıå
+MWeb:ImgWithoutAltCheck²"%Add an "alt" attribute to this image.(ÇÄıÿÿÿÿ
+MWeb:ImgWithoutAltCheckÀ"%Add an "alt" attribute to this image.(‘®Ã’øÿÿÿÿ
+HWeb:ImgWithoutAltCheckĞ"%Add an "alt" attribute to this image.(îò¦
+IWeb:TableWithoutCaptionCheckÙ" Add a description to this table.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+h Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ò•ÃÏ
+HWeb:ImgWithoutAltCheckà"%Add an "alt" attribute to this image.(ù¹»ú
+HWeb:ImgWithoutAltCheckè"%Add an "alt" attribute to this image.(ğ”úš
+NWeb:TableWithoutCaptionCheckî" Add a description to this table.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckî";Add either an 'id' or a 'scope' attribute to this <th> tag.(Œ¬›µøÿÿÿÿ
+IWeb:TableWithoutCaptionCheckğ" Add a description to this table.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+h Web:TableHeaderHasIdOrScopeCheckğ";Add either an 'id' or a 'scope' attribute to this <th> tag.(½‹òœ
+NWeb:TableWithoutCaptionCheckö" Add a description to this table.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckö";Add either an 'id' or a 'scope' attribute to this <th> tag.(´ËÔµùÿÿÿÿ
+NWeb:TableWithoutCaptionCheckø" Add a description to this table.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(ËæêÍøÿÿÿÿ
+NWeb:TableWithoutCaptionCheckü" Add a description to this table.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckü";Add either an 'id' or a 'scope' attribute to this <th> tag.( ¨İ•şÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÿ" Add a description to this table.(‚½æ¨úÿÿÿÿ
+E	Web:S1827ÿ"*Remove this deprecated "valign" attribute.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÿ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚½æ¨úÿÿÿÿ
+NWeb:TableWithoutCaptionCheck‚" Add a description to this table.(ùô¡ÿÿÿÿÿ
+E	Web:S1827‚"*Remove this deprecated "valign" attribute.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheck‚";Add either an 'id' or a 'scope' attribute to this <th> tag.(ùô¡ÿÿÿÿÿ
+MWeb:ImgWithoutAltCheck­"%Add an "alt" attribute to this image.(ºÛêôıÿÿÿÿ
+MWeb:ImgWithoutAltCheck®"%Add an "alt" attribute to this image.(²øöÏøÿÿÿÿ
+GWeb:ImgWithoutAltCheckî"%Add an "alt" attribute to this image.(Ç±£
+MWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(Û¦«¿ıÿÿÿÿ
+MWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(—¬ï–ÿÿÿÿÿ
+MWeb:ImgWithoutAltCheck–"%Add an "alt" attribute to this image.(Ó‘şøÿÿÿÿ
+MWeb:ImgWithoutAltCheck—"%Add an "alt" attribute to this image.(®³‡óüÿÿÿÿ
+MWeb:ImgWithoutAltCheck·"%Add an "alt" attribute to this image.(šµÄµüÿÿÿÿ
+MWeb:ImgWithoutAltCheck¹"%Add an "alt" attribute to this image.(³•îšùÿÿÿÿ
+HWeb:ImgWithoutAltCheckÕ"%Add an "alt" attribute to this image.(˜ïş‡
+NWeb:TableWithoutCaptionCheckÙ" Add a description to this table.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckÙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(·Ù€„üÿÿÿÿ
+NWeb:TableWithoutCaptionCheckİ" Add a description to this table.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckİ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¸âŒÄøÿÿÿÿ
+GWeb:ImgWithoutAltCheckğ"%Add an "alt" attribute to this image.(º±£Y
+IWeb:TableWithoutCaptionCheckô" Add a description to this table.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+h Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(ĞÓĞâ
+NWeb:TableWithoutCaptionCheckø" Add a description to this table.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+m Web:TableHeaderHasIdOrScopeCheckø";Add either an 'id' or a 'scope' attribute to this <th> tag.(‡³”¨ûÿÿÿÿ
+HWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ÓŞÒÄ
+HWeb:ImgWithoutAltCheckÇ"%Add an "alt" attribute to this image.(Ñ¾ı÷
+MWeb:ImgWithoutAltCheck‰"%Add an "alt" attribute to this image.(»×”Úşÿÿÿÿ
+HWeb:ImgWithoutAltCheckŠ"%Add an "alt" attribute to this image.(Õ‘€á
+HWeb:ImgWithoutAltCheck‹"%Add an "alt" attribute to this image.(áàÒº
+MWeb:ImgWithoutAltCheckŒ"%Add an "alt" attribute to this image.(ªò¥Öüÿÿÿÿ
+HWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(…ªÂÌ
+MWeb:ImgWithoutAltCheck•
+"%Add an "alt" attribute to this image.(Øå¥şÿÿÿÿ
+HWeb:ImgWithoutAltCheck¤
+"%Add an "alt" attribute to this image.(Ò’µÆ
+HWeb:ImgWithoutAltCheck¤
+"%Add an "alt" attribute to this image.(Ò’µÆ
+HWeb:ImgWithoutAltCheck¦
+"%Add an "alt" attribute to this image.(¿úÖ
+HWeb:ImgWithoutAltCheck¨
+"%Add an "alt" attribute to this image.(·÷¬·
+MWeb:ImgWithoutAltCheck©
+"%Add an "alt" attribute to this image.(…À­¯øÿÿÿÿ
+MWeb:ImgWithoutAltCheckª
+"%Add an "alt" attribute to this image.(£ÌÒ¡şÿÿÿÿ
+HWeb:ImgWithoutAltCheck¾
+"%Add an "alt" attribute to this image.(¼¾«
+MWeb:ImgWithoutAltCheckÈ
+"%Add an "alt" attribute to this image.(å³ìüıÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÌ
+" Add a description to this table.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+h Web:TableHeaderHasIdOrScopeCheckÌ
+";Add either an 'id' or a 'scope' attribute to this <th> tag.(ù·êû
+MWeb:ImgWithoutAltCheckÍ
+"%Add an "alt" attribute to this image.(ç•€Ôùÿÿÿÿ
+GWeb:ImgWithoutAltCheckã
+"%Add an "alt" attribute to this image.(«Ù´a
+MWeb:ImgWithoutAltCheckä
+"%Add an "alt" attribute to this image.(·‘»¸şÿÿÿÿ
+MWeb:ImgWithoutAltCheckå
+"%Add an "alt" attribute to this image.(Çõù°ÿÿÿÿÿ
+GWeb:ImgWithoutAltCheckï
+"%Add an "alt" attribute to this image.(ê˜l
+HWeb:ImgWithoutAltCheckü
+"%Add an "alt" attribute to this image.(¤Ìø‚
+MWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(Â™ùöùÿÿÿÿ
+MWeb:ImgWithoutAltCheck£"%Add an "alt" attribute to this image.(ÕŸÎùÿÿÿÿ
+MWeb:ImgWithoutAltCheck¸"%Add an "alt" attribute to this image.(¶Ï²¦ıÿÿÿÿ
+HWeb:ImgWithoutAltCheck¹"%Add an "alt" attribute to this image.(‹»ˆ
+HWeb:ImgWithoutAltCheck»"%Add an "alt" attribute to this image.(€çÍÄ

@@ -17,11 +17,11 @@ replacements = {
 
 for file_name in glob.glob(f"{dirname}/ProjectReport*.html"):
     name = file_name[14 + len(dirname):-5]
-    print(name)
+
     with open(file_name) as f:
         content = f.read()
 
-    print(file_name, len(content))
+    print(name, len(content))
     i = 1
     while (src := src_pattern.search(content)):
         html = src.group(1)
@@ -40,6 +40,12 @@ for file_name in glob.glob(f"{dirname}/ProjectReport*.html"):
         content = content[:src.start()] + f'src="{out_html}"' + content[src.end():]
         i += 1
 
-    print("Stripped to ", len(content))
+    if i > 1:
+        print("Stripped to ", len(content))
+    else:
+        print("Unchanged")
+
     with open(file_name, 'w') as f:
         f.write(content)
+
+    print()
